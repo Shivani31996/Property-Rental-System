@@ -1,0 +1,43 @@
+.logo{
+    height:80px;
+}
+
+li{
+	list-style-type: none;
+}
+
+#host{
+    width: 150px;
+    float: right;
+}
+
+#navbarDropdown{
+    width: 100px;
+    border: 0.01px solid gray;
+    border-radius: 20px;
+}
+
+.hamburger{
+    width: 30%;
+}
+
+#myInput{
+    border-radius: 10px;
+}
+
+.magnifier{
+    width: 50px;
+}
+
+.global{
+    width: 35px;
+}
+
+.navigation{
+    text-decoration: none;
+    text-decoration-color: none;
+}
+
+#profileLogo{
+    margin-left: 15px;
+}

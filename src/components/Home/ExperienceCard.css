@@ -1,0 +1,43 @@
+#experiencesection{
+    background-color: white;
+}
+
+#touristimg{
+    border-radius: 30px; 
+    max-height: 600px;
+}
+
+#btnexperiences{
+    border: 2px solid black;
+}
+
+#imagehome{
+    border-radius: 30px; 
+    max-height: 600px;
+}
+
+#onlineexperience{
+    border: 2px solid black;
+}
+
+#travel-img1{
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    padding: 30px;
+    
+}
+
+#description-img1{
+    font-size: 150%;
+}
+
+#description-img2{
+    font-size: 150%;
+}
+
+#travel-img2{
+    position: absolute;
+    top: 8px;
+    padding: 30px;
+}

@@ -1,0 +1,42 @@
+#signInComponent {
+    background: #eb4e63;
+    }
+    
+    .btn-login {
+      font-size: 0.9rem;
+      letter-spacing: 0.05rem;
+      padding: 0.75rem 1rem;
+      background-color: white;
+      border-color: white ;
+      color: #eb4e63;
+    }
+    .btn-login:hover{  
+      background-color: #367bfa;
+      border-color: #367bfa ;
+    }
+    
+    #floatingInput{
+      height: 60px;
+    }
+    
+    .btn-google {
+      color: white !important;
+      background-color: #ea4335;
+    }
+    
+    .btn-facebook {
+      color: white !important;
+      background-color: #3b5998;
+    }
+
+    #signin{
+      background-color: #eb4e63;
+      color: white;
+    }
+  
+    /* Do not use GLOBAL classes - REMOVE */
+    /* #loginbox{
+      background: linear-gradient(to right, #ec586c, #f34c54);
+        border-radius: 30px;
+        box-shadow: 12px 12px 22px;
+}  */

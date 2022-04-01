@@ -1,0 +1,28 @@
+#jumbotronCard{
+   background-color: white;
+}
+
+.card-title{
+    color: white; 
+    font-size: 200%;
+}
+
+#card1{
+   background-color: #BC1A6E;
+}
+
+#card2{
+    background-color: #DE3151;
+}
+
+#card3{
+    background-color: #D93B30;
+}
+
+#card4{
+    background-color: #DE3151;
+}
+
+.card-text{
+    color: white;
+}
