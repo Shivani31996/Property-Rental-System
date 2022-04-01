@@ -72,3 +72,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # Property-Rental-System
 >>>>>>> 7e7a6a93a74552f22c2e77f92270acb71bc6f02b
+
+![image](https://user-images.githubusercontent.com/76966366/161332755-8a08c8c4-d2c3-429a-81f5-0f028c08d392.png)
+
+![image](https://user-images.githubusercontent.com/76966366/161332814-584aca33-336d-42c2-b322-a9d0793dc34d.png)
+
+![image](https://user-images.githubusercontent.com/76966366/161332860-0a8229cd-6046-4adb-bba3-e59d3f73c436.png)
+
